@@ -17,7 +17,7 @@
 <img align="right" width="200" src="https://github.com/user-attachments/assets/f5b744fa-fa23-4b60-a9fe-a809765014ef" style="margin-left: 20 px;">
 
 #### 🎨 Art
-* Since young, I took a keen interest in finding ways to express myself through drawing and painting
+* Since young, I took a keen interest in finding ways to express myself through drawing & painting
 * Art has taught me to think creatively, approach challenges from different angles, and pay attention to detail, skills I still find relevant in what I am studying
 
 <br clear="right"/>
