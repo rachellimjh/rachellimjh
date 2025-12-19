@@ -4,7 +4,7 @@
 📧 Contact me: rachellimjh@gmail.com<br>
 💻 Pinned on my profile are some projects I have worked on 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachellimjh&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![rachellimjh's Stats](https://github-readme-stats.vercel.app/api?username=rachellimjh&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
 ### Interests and Hobbies
 
