@@ -22,13 +22,6 @@
 
 <br clear="right"/>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7c4346c1-8b17-4e39-a869-df1dc8be7eb3" width="150" style="border-radius: 50 %;" />
-</p>
-<p align="center">
-  <em>"When life gives you lemons, make lemonade"</em>
-</p>
-
 ### 🛠️ Technical Skills 
 
 
