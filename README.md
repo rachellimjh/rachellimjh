@@ -6,22 +6,6 @@
 
 ![rachellimjh's Stats](https://github-readme-stats.vercel.app/api?username=rachellimjh&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-
-### Interests and Hobbies
-
-#### 🧩 Problem-solving & puzzles<br>
-* I enjoy Sudoku, Bridge, and Poker (still trying to get better 😅), which sparked my interest in analyzing patterns, making strategic decisions, and applying logical reasoning<br>
-* Math has always been my favourite subject in school<br>
-* These experiences naturally inspired me to study Data Science and AI at university!
-
-<img align="right" width="200" src="https://github.com/user-attachments/assets/f5b744fa-fa23-4b60-a9fe-a809765014ef" style="margin-left: 20 px;">
-
-#### 🎨 Art
-* Since young, I took a keen interest in finding ways to express myself through drawing & painting
-* Art has taught me to think creatively, approach challenges from different angles, and pay attention to detail, skills I still find relevant in what I am studying
-
-<br clear="right"/>
-
 ### 🛠️ Technical Skills 
 
 
