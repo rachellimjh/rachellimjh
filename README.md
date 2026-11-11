@@ -1,4 +1,4 @@
-### <p align="center">Hi there, I'm Rachel, a Data Science and AI graduate at NTU! 👋</p> 
+### <p align="center">Hi there, I'm Rachel, a Data Science and AI graduate from NTU! 👋</p> 
 
 📍 Singapore 🌞<br>
 📧 Contact me: rachellimjh@gmail.com<br>
